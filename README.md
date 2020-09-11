@@ -2,7 +2,7 @@
 
 BANK MANAGEMENT SYSTEM IN C++
 
-About Project Bank Management System is based on a concept of recording customer’s account details. Here the user can perform all the tasks like:
+The Project is based on a concept of recording customer’s account details. Here the user can perform all the tasks like:
 
 1. Show Account Details
 2. Create New Account
